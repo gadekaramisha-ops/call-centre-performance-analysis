@@ -28,7 +28,7 @@ The headline question driving the analysis:
 | **Answer Rate** | 81% | ~1 in 5 calls never answered |
 | **Resolution Rate** | 89.94% | Strong — *once* a call is answered |
 | **Avg Satisfaction** | 3.40 / 5 | Consistent across the board |
-| **Avg Speed of Answer** | 67.5 sec | — |
+| **Avg Speed of Answer** | 67.5 sec | ~1 min average wait (answered calls only) |
 
 **The core insight:** The team resolves nearly **9 in 10** calls it answers — but answers only **4 in 5**. Quality isn't the problem; **capacity** is. The 946 unanswered calls (19%) are spread evenly across every hour and every topic, which points to a **systemic baseline-capacity shortfall**, not a peak-hour or single-topic bottleneck.
 
