@@ -105,10 +105,11 @@ Packaged the analysis into an eight-slide executive presentation using action-dr
 
 > _Add your dashboard screenshots here once uploaded — replace the lines below with the image paths._
 
-<!-- Example:
-![Executive Overview](data/dashboard_page1.png)
-![Agent Performance](data/dashboard_page2.png)
--->
+### Page 1 — Executive Overview
+![Executive Overview](dashboard_page1.png)
+
+### Page 2 — Agent Performance
+![Agent Performance](dashboard_page2.png)
 
 **Page 1 — Executive Overview:** Headline KPIs, call volume by hour and topic, agent resolution leaderboard, and a key-insight callout.
 
